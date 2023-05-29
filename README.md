@@ -1,7 +1,10 @@
-### Hi there 👋
-
+<div id = "header" align= "center"> 
+  <img src = "https://media.giphy.com/media/02dG7sMiUTRhJHsQ0n/giphy.gif" width = "300"/>
+  <h1 align = "center"> ✨ Helloo! I'm Vanessa Martínez 👩‍💻</h1>
+  <h3 align = "center"> I really love the SQL language and everything related to data analysis, I am a Python, Java and Fullstack developer. I'm about to graduate in Computer Systems Engineering at Tecnológico Nacional de México Campus Zitácuaro. </h3>
+</div>
 <!--
-**vanessamarnav/vanessamarnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vanessamarnav/vanessamarnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
